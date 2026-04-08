@@ -1,7 +1,7 @@
+<img width="1460" height="589" alt="github profile bannerr" src="https://github.com/user-attachments/assets/c21f03c8-62e8-4cee-b4b8-01c23695e2fe" />
 <h1 align="center">Hi 👋, I'm Mijanur Rahman</h1>
 <h3 align="center">I am a passionate developer from Bangladesh 🇧🇩 who loves building modern and user-friendly web applications.
 I enjoy learning new technologies and improving my coding skills every day.</h3>
-<img width="1460" height="589" alt="github profile bannerr" src="https://github.com/user-attachments/assets/c21f03c8-62e8-4cee-b4b8-01c23695e2fe" />
 
 - 🌱 I’m currently learning **React & Node.js**
 
